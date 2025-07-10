@@ -2,7 +2,7 @@
 
 ## 📷 Project Overview
 
-This is a prototype Computer Vision application developed as part of the **CSCI435** course group project.  
+This is a Computer Vision application developed as part of the **CSCI435** course group project.  
 It processes images and video frames using **OpenCV** to analyze visual scenes in multiple ways.
 
 **Key features include:**
